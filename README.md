@@ -27,7 +27,7 @@ export const aboutMe = {
   name: 'Diego Martín Dominguez',
   location: 'Madrid, Spain',
   role: 'Frontend developer',
-  code: [Javascript, HTML5, CSS3,],
+  code: [Javascript, HTML5, CSS3,Sass]
   tools: [ReactJS, Redux, Git],
   contact: 'diegomdomi@gmail.com'
 };
